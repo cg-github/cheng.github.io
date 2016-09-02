@@ -1,0 +1,36 @@
+html {
+	background-color: #00539F;
+}
+
+body {
+	width: 600px;
+	margin:  0 auto;
+	background: #C7B589;
+	padding: 0 20px 20px 20px;
+	font-family: cuisive; 
+}
+
+p ,li {
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 1px;
+}
+
+p {
+	color: black;
+	margin: 0 auto;
+	border: 1px ;
+	/*text-align: center;*/
+}
+
+h1 {
+	margin: 0 auto;
+	padding: 20px 0;
+	/*display: block;*/
+	text-align: center;
+}
+
+img {
+	margin: 0 auto;
+	display: block;
+}
